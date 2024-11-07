@@ -1,15 +1,9 @@
 ### Hi there 👋 
 
 
-I am a data scientist working hard on machine learning, deep learning and robotic process automation considering cloud computing and blockchain as major tools that in combination with internet of things and cyber-physical systems I think we all can change the world in a positive way! 
+I am a full-stack data scientist, researcher and a entrepreneur working for developing green edge and distributed AI. I think we all can change the world in a positive way!
  
- 🔭 I’m planning for a Project **Blockchain-based traceability on supplychain in agriculture**.
- 
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
- 
- 👯 I’m looking to collaborate for a RPA and ML-based project.
- 
- 💬 Ask me about Science Fiction, Machine learning Development, Cloud, blockchain and any Tech-related stuff.
+ 💬 Ask me about Science Fiction, Machine learning, Cloud, and any Tech-related stuff.
 
 ### Tech & Tools Preference
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
