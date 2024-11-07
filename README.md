@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 
-I am a full-stack data scientist, researcher and a entrepreneur working for developing green edge and distributed AI. I think we all can change the world in a positive way!
+I am a full-stack data scientist, researcher, PhD student and a entrepreneur working for developing green, edge and distributed AI. I think we all can change the world in a positive way!
  
  💬 Ask me about Science Fiction, Machine learning, Cloud, and any Tech-related stuff.
 
